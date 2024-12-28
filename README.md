@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I’m an undergraduate student of **Mechanical Engineering** at **BUET** (Bangladesh University of Engineering and Technology). I’m passionate about engineering, programming, and robotics.
 
 ## 🛠️ Technologies & Tools
-- **Programming**: Python, C++  
+- **Programming**: Python, C, C++  
 - **3D Modeling & CAD**: SolidWorks  
 
 ## 📢 Fun Fact
