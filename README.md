@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Aryan Nafis</h1>
-<h3 align="center">Welcome to my GitHub profile! I’m an undergraduate student of Mechanical Engineering at BUET (Bangladesh University of Engineering and Technology). I’m passionate about CAD, programming, and robotics</h3>
+<h3 align="center">Welcome to my GitHub profile! I’m an undergraduate student of Mechanical Engineering at BUET (Bangladesh University of Engineering and Technology). I’m passionate about Thermal Engineering, programming, and robotics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arynfs&label=Profile%20views&color=0e75b6&style=flat" alt="arynfs" /> </p>
 
