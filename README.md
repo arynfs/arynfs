@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arynfs" alt="arynfs" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Matlab, Ansys.**
+- 🌱 I’m currently learning **Molecular Dynamics, Machine Learning, Ansys.**
 
-- 👯 I’m looking to collaborate on **Robotics projects based on arduino.**
+- 👯 I’m looking to collaborate on **Molecular Dynamics, Machine Learning.**
 
 - 📫 How to reach me **aryannafis07@gmail.com**
 
-- ⚡ Fun fact **Did you know that CAD software and programming form a dynamic synergy? While CAD empowers engineers to conceptualize and model intricate components, programming breathes life into those designs—automating workflows, conducting simulations, and seamlessly integrating digital blueprints with real-world manufacturing processes. It's akin to crafting a digital twin of your creation, one that not only mimics but also evolves, adapts, and optimizes itself—thanks to the power of code. As a mechanical engineering student, I’m fascinated by how the fusion of these two disciplines can accelerate the journey from concept to functional solutions, achieving precision and efficiency like never before.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
